@@ -33,7 +33,7 @@ menu:
 params:
   # description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in auctor massa"
-  author: Annappa
+  author: Dr. Annappa B
   googleAnalyticsID: "G-97G4MZ4061"
   DateFormat: "January 2006"
   defaultTheme: light
@@ -56,10 +56,9 @@ params:
   math: true
   profileMode:
     enabled: true
-    title: Annappa
-    # subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
-    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in auctor massa. Maecenas pellentesque elit ligula, non porta ex placerat sed. Etiam sed risus sed ligula malesuada dictum sit amet vitae nibh. Maecenas condimentum leo magna, sit amet posuere arcu hendrerit at. Phasellus orci lectus, interdum ut ante sit amet, eleifend feugiat libero. Donec nec mauris consequat, egestas mauris et, accumsan dolor. Nunc ullamcorper nibh volutpat feugiat sodales."
-    imageUrl: "/picture.jpeg"
+    title: Dr. Annappa B
+    subtitle: "Experienced Professor and Former Head of the Department of Computer Science and Engineering at National Institute of Technology Karnataka, Surathkal, INDIA with a demonstrated history of working in the higher education Institution. Well known Academician and Researcher in Computer Science & Engineering with Ph.D. and M.Tech. in Computer Science & Engineering from National Institute of Technology Karnataka and B.E. in Computer Science & Engineering, from Govt. B.D.T. College of Engineering Davangere, Karnataka. Working primarily in the areas of Cloud Computing, Data Science and Software Engineering."
+    imageUrl: "./picture.jpeg"
     imageWidth: 160
     imageHeight: 160
     imageTitle: Annappa
