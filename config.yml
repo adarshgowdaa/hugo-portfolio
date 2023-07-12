@@ -36,9 +36,9 @@ params:
   author: Annappa
   googleAnalyticsID: "G-97G4MZ4061"
   DateFormat: "January 2006"
-  defaultTheme: auto
+  defaultTheme: light
   hideFooter: false
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: false
   disableSpecial1stPost: true
