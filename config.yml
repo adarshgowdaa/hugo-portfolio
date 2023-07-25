@@ -34,7 +34,7 @@ params:
   # description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in auctor massa"
   author: Dr. Annappa B
-  googleAnalyticsID: "G-97G4MZ4061"
+ # googleAnalyticsID: "G-97G4MZ4061"
   DateFormat: "January 2006"
   defaultTheme: light
   hideFooter: false
