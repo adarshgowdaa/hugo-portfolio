@@ -14,8 +14,8 @@ taxonomies:
 
 menu:
   main:
-    - name: Papers - TODO
-      url: .../papers/
+    - name: Papers
+      url: hugo-portfolio/papers/
       weight: 1
     - name: Courses - TODO
       url: .../courses/
@@ -64,7 +64,7 @@ params:
     imageTitle: Annappa
     buttons:
       - name: Papers
-        url: /papers/
+        url: hugo-portfolio/papers/
       - name: Courses - TODO
         url: .../courses/
       - name: TODO
